@@ -1,0 +1,23 @@
+{
+    "5star" :{
+        "rarity": 5,
+        "probability" : "2%",
+        "rate-up probability": "1%",
+        "rate-up items": "",
+        "character": []
+    },
+    "4star" :{
+        "rarity": 4,  
+        "probability" : "14%",
+        "rate-up probability": "9%",
+      
+        "rate-up items": [""],
+        "character": []
+    },
+    "3star" :{
+        "rarity": 3,  
+        "probability" : "84%",
+        "character": []
+    }
+
+}
