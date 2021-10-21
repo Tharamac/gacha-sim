@@ -2,22 +2,59 @@
     "5star" :{
         "rarity": 5,
         "probability" : "2%",
-        "rate-up probability": "1%",
-        "rate-up items": "",
-        "character": []
+        "featured_probability": "50%",
+        "featured_items": ["Sasa"],
+        "items": [
+            "Sasa",
+            "Kareen",
+            "Hana",
+            "Uriel",
+            "Elma",
+            "Alice"
+        ]
     },
     "4star" :{
         "rarity": 4,  
         "probability" : "14%",
-        "rate-up probability": "9%",
-      
-        "rate-up items": [""],
-        "character": []
+        "featured_probability": "9%",
+        "featured_items": ["Sigma","Tremor","Ratata"],
+        "items": [ 
+            "Sigma", 
+            "Delan",
+            "Cronos",
+            "Lisha",
+            "Ratata",
+            "Genesis",
+            "Tremor",
+            "Yiyi"
+        ]
     },
     "3star" :{
         "rarity": 3,  
         "probability" : "84%",
-        "character": []
+        "items": [
+            "Lycan",
+            "Quert",
+            "Sirel",
+            "Diesel",
+            "Pauleen",
+            "Jason",
+            "Mimick",
+            "Enran",
+            "Kuru",
+            "Nephi",
+            "Karen",
+            "Cecilla",
+            "Delta",
+            "Anuru",
+            "Pitchy",
+            "Laplas",
+            "Flaire",
+            "Alkene",
+            "Zara",
+            "Duera",
+            "Liam"
+        ]
     }
 
 }
